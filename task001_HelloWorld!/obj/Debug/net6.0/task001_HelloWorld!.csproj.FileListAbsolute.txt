@@ -1,0 +1,15 @@
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\bin\Debug\net6.0\task001_HelloWorld!.exe
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\bin\Debug\net6.0\task001_HelloWorld!.deps.json
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\bin\Debug\net6.0\task001_HelloWorld!.runtimeconfig.json
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\bin\Debug\net6.0\task001_HelloWorld!.dll
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\bin\Debug\net6.0\task001_HelloWorld!.pdb
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\obj\Debug\net6.0\task001_HelloWorld!.csproj.AssemblyReference.cache
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\obj\Debug\net6.0\task001_HelloWorld!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\obj\Debug\net6.0\task001_HelloWorld!.AssemblyInfoInputs.cache
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\obj\Debug\net6.0\task001_HelloWorld!.AssemblyInfo.cs
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\obj\Debug\net6.0\task001_HelloWorld!.csproj.CoreCompileInputs.cache
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\obj\Debug\net6.0\task001_HelloWorld!.dll
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\obj\Debug\net6.0\refint\task001_HelloWorld!.dll
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\obj\Debug\net6.0\task001_HelloWorld!.pdb
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\obj\Debug\net6.0\task001_HelloWorld!.genruntimeconfig.cache
+C:\Users\Повелитель\Desktop\education\С#\Lect_1\task001_HelloWorld!\obj\Debug\net6.0\ref\task001_HelloWorld!.dll
