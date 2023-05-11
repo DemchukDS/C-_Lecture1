@@ -1,7 +1,0 @@
-Console.WriteLine("Enter the first number: ");
-float first_number = Convert.ToSingle(Console.ReadLine());
-Console.WriteLine("Enter the second number: ");
-float second_number = Convert.ToSingle(Console.ReadLine());
-float result = first_number + second_number;
-Console.Write("Sum of entered numbers: ");
-Console.WriteLine(result);
